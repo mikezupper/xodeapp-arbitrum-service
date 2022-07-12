@@ -9,6 +9,7 @@ Livepeer relies on the block data generated from Arbitrum. Up to the second, blo
 There are several options when deciding on which service providers to use.
 
 The commons options:
+
     1. Public RPC Access
     2. General RPC Service Providers
     3. Self-Hosted
@@ -18,7 +19,7 @@ The commons options:
 
 The high level architecture consists of multiple layers. Each layer is responsible for specific functions within the infrastructure : 
 
-security, redundency, scalability, and high availability.  
+*Security*, *Redundency*, *Salability*, and *High Availability*  
 
 As noted in the figure #1, Arbitrum is dependent on Etherium. Redundency is critical for each layer in the network /application stacks. 
 
